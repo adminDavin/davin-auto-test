@@ -1,0 +1,4 @@
+{"login":{"username": "zhangjian", "password": "Zhang7"},
+"create":{"name":"添加检查库"},
+"modify":{"param1":null,"param2":null,"param3":null,"param4":null,"param5":null,"param6":null,"activeFlag":"Y","creator":null,"creatorName":null,"createTime":null,"createOrgId":null,"createOrgName":null,"updater":null,"updaterName":null,"updateTime":null,"updateOrgId":null,"updateOrgName":null,"id":"5acc0efc56bc4f44b8846c573328c222","name":"添加检查库（修改）","description":null,"weight":375,"deptId":"ecf9995e-f953-4175-90bf-cbb96e2cb5d0","deptName":"健康安全环保部","orgId":"a960854a-6b84-4dda-b531-66e757358b7b","orgName":"中国中化控股有限责任公司"}}
+ 
